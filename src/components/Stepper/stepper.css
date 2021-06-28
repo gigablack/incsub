@@ -1,0 +1,27 @@
+.stepper-container {
+    background-color: #F9F9F9;
+    width: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form-container {
+    width: 40%;
+}
+
+.steps {
+    align-self: flex-end;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #286EFA;
+}
+
+
+h1 {
+    margin: 0px;
+}

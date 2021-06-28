@@ -1,0 +1,17 @@
+.submit {
+    font-weight: bold;
+    width: 100%;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.submit-disabled {
+    background-color: #EDEDED;
+    color: #999;
+}
+
+.submit-enabled {
+    background-color: #286EFA;
+    color: white;
+    cursor: pointer;
+}
